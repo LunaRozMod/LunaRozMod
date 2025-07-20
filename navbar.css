@@ -1,0 +1,45 @@
+#navbar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 4vh;
+    z-index: 800;
+}
+
+#navbar h1{
+    padding-left: 4vw;
+    color: white;
+    font-family: "CabinetGrotesk";
+    font-size: 20px;
+    margin: 0;
+}
+
+.navigation-bar{
+    padding-right: 4vw;
+    width: 35px;
+    height: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.navbar-stick1{
+    width: 100%;
+    height: 3px;
+    background-color: white;
+}
+
+.navbar-stick2{
+    width: 100%;
+    height: 3px;
+    background-color: white;
+}
+
+.navbar-stick3{
+    width: 100%;
+    height: 3px;
+    background-color: white;
+}
