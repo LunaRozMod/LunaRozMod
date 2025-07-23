@@ -22,3 +22,7 @@ body{
   font-family: 'Satoshi';
   src: url('./fonts/Satoshi-Medium.ttf') format('truetype');
 }
+
+*{
+  box-sizing: border-box;
+}
