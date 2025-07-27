@@ -22,3 +22,14 @@ body{
   font-family: 'Satoshi';
   src: url('./fonts/Satoshi-Medium.ttf') format('truetype');
 }
+
+*{
+  box-sizing: border-box;
+}
+
+a,
+a:visited,
+a:hover,
+a:active {
+  text-decoration: none;
+}
